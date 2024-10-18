@@ -1,0 +1,48 @@
+Mod,Tag,Tier,iLvl,Weight,Prefix%,Weight%
+"(4-6)% faster start of Energy Shield Recharge",Defences,1,1,500,2.739%,1.352%
+"(4-6)% increased Attack Speed while Dual Wielding",AttackSpeed,1,1,500,2.739%,1.352%
+"(4-6)% increased Attack Speed while holding a Shield",AttackSpeed,1,1,400,2.191%,1.081%
+"(6-8)% increased Attack Speed with Wands",AttackSpeed,1,1,500,2.739%,1.352%
+"(3-5)% increased Cast Speed while Dual Wielding",CasterSpeed,1,1,500,2.739%,1.352%
+"(3-5)% increased Cast Speed while holding a Shield",CasterSpeed,1,1,500,2.739%,1.352%
+"(3-5)% increased Cast Speed while wielding a Staff",CasterSpeed,1,1,500,2.739%,1.352%
+"(3-5)% increased Cast Speed with Cold Skills",ElementalColdCasterSpeed,1,1,500,2.739%,1.352%
+"(3-5)% increased Cast Speed with Fire Skills",ElementalFireCasterSpeed,1,1,500,2.739%,1.352%
+"(3-5)% increased Cast Speed with Lightning Skills",ElementalLightningCasterSpeed,1,1,500,2.739%,1.352%
+"(9-13)% increased Chaos Damage",DamageChaos,1,1,200,1.095%,0.540%
+"(14-16)% increased Cold Damage",DamageElementalCold,1,1,400,2.191%,1.081%
+"(14-18)% increased Critical Strike Chance with Cold Skills",ElementalColdCritical,1,1,200,1.095%,0.540%
+"(14-18)% increased Critical Strike Chance with Fire Skills",ElementalFireCritical,1,1,200,1.095%,0.540%
+"(14-18)% increased Critical Strike Chance with Lightning Skills",ElementalLightningCritical,1,1,250,1.369%,0.676%
+"(14-16)% increased Damage with Wands",DamageAttack,1,1,500,2.739%,1.352%
+"(6-8)% increased Energy Shield Recharge Rate",Defences,1,1,500,2.739%,1.352%
+"(14-16)% increased Fire Damage",DamageElementalFire,1,1,400,2.191%,1.081%
+"(6-10)% increased Flask Effect Duration",,1,1,250,1.369%,0.676%
+"(14-16)% increased Global Physical Damage",DamagePhysical,1,1,500,2.739%,1.352%
+"(14-16)% increased Lightning Damage",DamageElementalLightning,1,1,500,2.739%,1.352%
+"(12-15)% increased Mana Regeneration Rate",Mana,1,1,500,2.739%,1.352%
+"(2-3)% increased Mana Reservation Efficiency of Skills",Mana,1,1,250,1.369%,0.676%
+"(6-8)% increased maximum Energy Shield",Defences,1,1,500,2.739%,1.352%
+"(5-7)% increased maximum Life",Life,1,1,350,1.917%,0.946%
+"(8-10)% increased maximum Mana",Mana,1,1,500,2.739%,1.352%
+"(14-16)% increased Mine Damage",Damage,1,1,500,2.739%,1.352%
+"(6-8)% increased Mine Throwing Speed",Speed,1,1,250,1.369%,0.676%
+"(14-16)% increased Spell Damage while Dual Wielding",DamageCaster,1,1,500,2.739%,1.352%
+"(14-16)% increased Spell Damage while holding a Shield",DamageCaster,1,1,500,2.739%,1.352%
+"(14-16)% increased Spell Damage while wielding a Staff",DamageCaster,1,1,500,2.739%,1.352%
+"(12-16)% increased Totem Damage",Damage,1,1,250,1.369%,0.676%
+"(8-12)% increased Totem Life",Life,1,1,250,1.369%,0.676%
+"(14-16)% increased Trap Damage",Damage,1,1,500,2.739%,1.352%
+"(6-8)% increased Trap Throwing Speed",Speed,1,1,250,1.369%,0.676%
+"+(2-3)% Chance to Block Attack Damage while Dual Wielding",,1,1,350,1.917%,0.946%
+"+(2-3)% Chance to Block Attack Damage while holding a Shield",,1,1,350,1.917%,0.946%
+"+(2-3)% Chance to Block Attack Damage while wielding a Staff",,1,1,350,1.917%,0.946%
+"+(2-3)% Chance to Block Spell Damage while Dual Wielding",,1,1,350,1.917%,0.946%
+"+(2-3)% Chance to Block Spell Damage while holding a Shield",,1,1,350,1.917%,0.946%
+"+(2-3)% Chance to Block Spell Damage while wielding a Staff",,1,1,350,1.917%,0.946%
+"+(15-18)% to Critical Strike Multiplier with Cold Skills",DamageElementalColdCritical,1,1,200,1.095%,0.540%
+"+(15-18)% to Critical Strike Multiplier with Fire Skills",DamageElementalFireCritical,1,1,200,1.095%,0.540%
+"+(15-18)% to Critical Strike Multiplier with Lightning Skills",DamageElementalLightningCritical,1,1,250,1.369%,0.676%
+"Damaging Ailments deal damage (4-6)% faster",Ailment,1,1,250,1.369%,0.676%
+"Minions deal (14-16)% increased Damage",DamageMinion,1,1,500,2.739%,1.352%
+"Minions have (8-12)% increased maximum Life",LifeMinion,1,1,350,1.917%,0.946%

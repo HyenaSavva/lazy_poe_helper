@@ -1,0 +1,11 @@
+{
+  "stop_key": "f3",
+  "max_retries": 99,
+  "currency_block_size": [42, 42],
+  "item_block_size": [84, 166],
+  "execution_delays": {
+    "key_press_delay": 0.1,
+    "clipboard_copy_delay": 0.2,
+    "mouse_speed": 0.24
+  }
+}

@@ -1,0 +1,62 @@
+Mod,Tag,Tier,iLvl,Weight,Suffix%,Weight%
+"(3-5)% chance to Freeze, (12-16)% increased Freeze Duration on Enemies",AilmentColdElemental,1,1,250,1.335%,0.676%
+"(3-5)% chance to Ignite, (6-8)% increased Ignite Duration on Enemies",AilmentElementalFire,1,1,250,1.335%,0.676%
+"(5-7)% chance to Impale Enemies on Hit with Attacks",PhysicalAttack,1,1,250,1.335%,0.676%
+"(4-6)% chance to Knock Enemies Back on hit",,1,1,250,1.335%,0.676%
+"(3-5)% chance to Poison on Hit, (6-8)% increased Poison Duration",AilmentChaosPoison,1,1,250,1.335%,0.676%
+"(3-5)% chance to Shock, (12-16)% increased Shock Duration on Enemies",AilmentElementalLightning,1,1,350,1.869%,0.946%
+"(10-12)% increased Area Damage",Damage,1,1,500,2.670%,1.352%
+"(2-4)% increased Attack and Cast Speed",AttackCasterSpeed,1,1,350,1.869%,0.946%
+"(3-5)% increased Attack Speed",AttackSpeed,1,1,500,2.670%,1.352%
+"(16-20)% increased Burning Damage",DamageElementalFireAilment,1,1,500,2.670%,1.352%
+"(2-4)% increased Cast Speed",CasterSpeed,1,1,500,2.670%,1.352%
+"(10-14)% increased Critical Strike Chance with Elemental Skills",ElementalCritical,1,1,100,0.534%,0.270%
+"(8-10)% increased Damage",Damage,1,1,350,1.869%,0.946%
+"(10-12)% increased Damage over Time",Damage,1,1,500,2.670%,1.352%
+"(16-20)% increased Damage with Bleeding",BleedDamagePhysicalAttackAilment,1,1,250,1.335%,0.676%
+"(16-20)% increased Damage with Poison",PoisonDamageChaosAilment,1,1,250,1.335%,0.676%
+"(8-12)% increased Global Critical Strike Chance",Critical,1,1,250,1.335%,0.676%
+"(22-26)% increased Minion Accuracy Rating",AttackMinion,1,1,350,1.869%,0.946%
+"(10-12)% increased Projectile Damage",Damage,1,1,400,2.136%,1.081%
+"(6-8)% increased Projectile Speed",Speed,1,1,300,1.602%,0.811%
+"(10-14)% increased Spell Critical Strike Chance",CasterCritical,1,1,250,1.335%,0.676%
+"(10-12)% increased Spell Damage",DamageCaster,1,1,500,2.670%,1.352%
+"(25-35)% increased Stun and Block Recovery",,1,1,200,1.068%,0.540%
+"(10-14)% increased Stun Duration on Enemies",,1,1,200,1.068%,0.540%
+"(4-6)% of Damage taken Recouped as Life",Life,1,1,500,2.670%,1.352%
+"(30-35)% reduced Bleed Duration on you",BleedPhysicalAilment,1,1,250,1.335%,0.676%
+"(30-35)% reduced Effect of Chill on you",ElementalColdAilment,1,1,250,1.335%,0.676%
+"(25-30)% reduced Effect of Curses on you",Curse,1,1,250,1.335%,0.676%
+"(30-35)% reduced Effect of Shock on you",ElementalLightningAilment,1,1,250,1.335%,0.676%
+"(30-35)% reduced Ignite Duration on you",ElementalFireAilment,1,1,250,1.335%,0.676%
+"(30-35)% reduced Poison Duration on you",PoisonChaosAilment,1,1,250,1.335%,0.676%
+"+(6-8) to all Attributes",Attribute,1,1,300,1.602%,0.811%
+"+(12-16) to Dexterity",Attribute,1,1,300,1.602%,0.811%
+"+(8-10) to Dexterity and Intelligence",Attribute,1,1,450,2.403%,1.217%
+"+(12-16) to Intelligence",Attribute,1,1,500,2.670%,1.352%
+"+(12-16) to Strength",Attribute,1,1,300,1.602%,0.811%
+"+(8-10) to Strength and Dexterity",Attribute,1,1,250,1.335%,0.676%
+"+(8-10) to Strength and Intelligence",Attribute,1,1,450,2.403%,1.217%
+"+(8-10)% to all Elemental Resistances",ElementalResistance,1,1,300,1.602%,0.811%
+"+(6-8)% to Chaos Damage over Time Multiplier",DamageChaos,1,1,300,1.602%,0.811%
+"+(7-13)% to Chaos Resistance",ChaosResistance,1,1,100,0.534%,0.270%
+"+(10-12)% to Cold and Lightning Resistances",ElementalColdLightningResistance,1,1,450,2.403%,1.217%
+"+(6-8)% to Cold Damage over Time Multiplier",DamageElementalCold,1,1,300,1.602%,0.811%
+"+(12-15)% to Cold Resistance",ElementalColdResistance,1,1,300,1.602%,0.811%
+"+(12-15)% to Critical Strike Multiplier for Spell Damage",CasterCriticalDamage,1,1,250,1.335%,0.676%
+"+(12-15)% to Critical Strike Multiplier with Elemental Skills",DamageElementalCritical,1,1,100,0.534%,0.270%
+"+(4-6)% to Damage over Time Multiplier",Damage,1,1,300,1.602%,0.811%
+"+(10-12)% to Fire and Cold Resistances",ElementalFireColdResistance,1,1,250,1.335%,0.676%
+"+(10-12)% to Fire and Lightning Resistances",ElementalFireLightningResistance,1,1,450,2.403%,1.217%
+"+(6-8)% to Fire Damage over Time Multiplier",DamageElementalFire,1,1,300,1.602%,0.811%
+"+(12-15)% to Fire Resistance",ElementalFireResistance,1,1,300,1.602%,0.811%
+"+(9-12)% to Global Critical Strike Multiplier",DamageCritical,1,1,250,1.335%,0.676%
+"+(12-15)% to Lightning Resistance",ElementalLightningResistance,1,1,500,2.670%,1.352%
+"+(1-2)% to maximum Cold Resistance",ElementalColdResistance,1,1,60,0.320%,0.162%
+"+(1-2)% to maximum Fire Resistance",ElementalFireResistance,1,1,60,0.320%,0.162%
+"+(1-2)% to maximum Lightning Resistance",ElementalLightningResistance,1,1,100,0.534%,0.270%
+"+(6-8)% to Physical Damage over Time Multiplier",DamagePhysical,1,1,300,1.602%,0.811%
+"Attacks have (3-5)% chance to cause Bleeding, (12-16)% increased Bleeding Duration",BleedPhysicalAttackAilment,1,1,250,1.335%,0.676%
+"Gain (2-3) Energy Shield per Enemy Hit with Attacks",AttackDefences,1,1,500,2.670%,1.352%
+"Minions have +(11-15)% to all Elemental Resistances",ElementalResistanceMinion,1,1,350,1.869%,0.946%
+"Totems gain +(6-10)% to all Elemental Resistances",ElementalResistance,1,1,250,1.335%,0.676%

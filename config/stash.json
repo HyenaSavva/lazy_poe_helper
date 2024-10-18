@@ -1,0 +1,23 @@
+{
+  "main_currency": [
+    { "name": "scroll_of_wisdom", "position": [83, 180] },
+    { "name": "transmutation_orb", "position": [36, 248] },
+    { "name": "augmentation_orb", "position": [207, 306] }, 
+    { "name": "alteration_orb", "position": [92, 248] },
+    { "name": "alchemy_orb", "position": [473, 248] },
+    { "name": "chaos_orb", "position": [530, 248] },
+    { "name": "exalted_orb", "position": [282, 248] },
+    { "name": "orb_of_annulment", "position": [150, 248] },
+    { "name": "orb_of_scouring", "position": [416, 488] }
+  ],
+  "secondary_currency": [
+    { "name": "currency_1", "position": [140, 586] },
+    { "name": "currency_2", "position": [197, 586] },
+    { "name": "currency_3", "position": [254, 586] },
+    { "name": "currency_4", "position": [311, 586] },
+    { "name": "currency_5", "position": [368, 586] },
+    { "name": "currency_6", "position": [425, 586] },
+    { "name": "currency_7", "position": [482, 586] }
+  ],
+  "item_slot": { "position": [288, 368] }
+}
